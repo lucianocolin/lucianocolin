@@ -7,7 +7,7 @@
 💡 &nbsp;I'm a developer with experience in full-stack technologies, back-end oriented.\
 🎓 &nbsp;I'm currently studying informatics at UTN (Universidad Tecnológica Nacional).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at lucianocolin99@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at lucianocolin99@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
